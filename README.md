@@ -56,7 +56,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{synpolysegnet2024,
   title={Synthetic Data-Driven Multi-Architecture Framework for Automated Polyp Segmentation},
-  author={[Author Names]},
+  author={[Ejiga Peter]},
   journal={[Journal Name]},
   year={2024}
 }
@@ -74,7 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions and feedback, please open an issue or contact [email].
+For questions and feedback, please open an issue or contact [ojeji1@morgan.edu].
 
 ## Contributing
 
